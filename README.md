@@ -19,4 +19,4 @@ To run the vuesj app in this repository:
 
  ```bash
     python manage.py runserver
- ...
+  ```
